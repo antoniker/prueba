@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    //comentarios de swift
+    //comentarios de swift demo 2
 
 
 }
